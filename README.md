@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Joe, a Full Stack Software Engineer that enjoys tinkering with:
+
+#### Languages
+- Ruby
+- Typescript
+- Rust
+- Go
+
+#### Interests
+- Electronics like ESP32s, RPi 2040 etc
+- Many incomplete side projects
+- DevOps
 <!--
 **JoeSouthan/JoeSouthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
